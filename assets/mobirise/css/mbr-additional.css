@@ -1101,7 +1101,7 @@ section.lazy-placeholder:after {
 }
 .cid-s2tsSYpCV4 {
   padding-top: 135px;
-  padding-bottom: 135px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/20181203-rasmussen-12-2000x1333.jpeg");
 }
 .cid-s2tsSYpCV4 P {
@@ -1115,10 +1115,51 @@ section.lazy-placeholder:after {
 .cid-s2tsSYpCV4 .mbr-section-btn {
   text-align: left;
 }
-.cid-s2tZBKzuUq {
-  padding-top: 45px;
-  padding-bottom: 105px;
+.cid-s2u8NKCQ5A {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #47bc5d);
+}
+.cid-s2u8NKCQ5A .nav-tabs {
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  border-bottom: none;
+}
+.cid-s2u8NKCQ5A .nav-tabs .nav-link {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-style: normal;
+  font-weight: 500;
+  border-radius: 3px;
+  border: 1px solid #ffffff;
+  padding: 1rem 3rem;
+  margin: 0.4rem .8rem !important;
+  transition: all .5s;
+}
+.cid-s2u8NKCQ5A .nav-tabs .nav-link:hover {
   background-color: #074c13;
+}
+.cid-s2u8NKCQ5A .nav-tabs .nav-link.active {
+  font-weight: 500;
+  color: #ffffff;
+  font-style: normal;
+  border: none;
+  background: #074c13;
+}
+.cid-s2u8NKCQ5A .nav-tabs .nav-link.active:hover {
+  border: none;
+}
+.cid-s2u8NKCQ5A p {
+  color: #232323;
+}
+.cid-s2u8NKCQ5A .mbr-text {
+  text-align: center;
+}
+.cid-s2u8NKCQ5A P {
+  text-align: right;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
