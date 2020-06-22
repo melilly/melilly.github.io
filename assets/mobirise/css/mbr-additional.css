@@ -3119,7 +3119,7 @@ section.lazy-placeholder:after {
 }
 .cid-s2A5dytf3L .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #004218;
+  background: #50b465;
   margin-left: 2rem;
 }
 .cid-s2A5dytf3L .timeline-text-content p {
@@ -3130,7 +3130,7 @@ section.lazy-placeholder:after {
 }
 .cid-s2A5dytf3L .time-line-date-content p {
   padding: 2rem 2.5rem;
-  background: #004218;
+  background: #50b465;
   float: right;
 }
 .cid-s2A5dytf3L .timeline-element {
@@ -3179,7 +3179,7 @@ section.lazy-placeholder:after {
   border-radius: 50%;
   font-size: 30px;
   display: inline-block;
-  background-color: #004218;
+  background-color: #50b465;
   top: 20px;
   margin-left: -10px;
 }
@@ -3189,7 +3189,7 @@ section.lazy-placeholder:after {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #004218;
+  background-color: #50b465;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -3221,13 +3221,13 @@ section.lazy-placeholder:after {
   flex-direction: column-reverse;
 }
 .cid-s2A5dytf3L .mbr-timeline-date {
-  color: #ffd4d4;
+  color: #ffffff;
 }
 .cid-s2A5dytf3L .mbr-timeline-text {
   color: #ffffff;
 }
 .cid-s2A5dytf3L .mbr-timeline-title {
-  color: #ffd4d4;
+  color: #004218;
 }
 .cid-s2AhcunfNY {
   padding-top: 30px;
