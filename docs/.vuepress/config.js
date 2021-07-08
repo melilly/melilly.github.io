@@ -1,7 +1,7 @@
 module.exports = {
-  title: "Harry Potter",
-  description: "The description of the site.",
-  head: [["link", { rel: "icon", href: `/logo.png` }]],
+  title: "Melissa Rasmussen",
+  description: "Professional profile of physicist Melissa Rasmussen",
+  head: [["link", { rel: "icon", href: `/profile.jpg` }]],
   base: "/",
   dest: "./dist",
 
@@ -12,7 +12,7 @@ module.exports = {
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
       { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "GitHub", link: "https://github.com/melilly/melilly.github.io" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

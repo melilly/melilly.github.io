@@ -2,23 +2,20 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Melissa Rasmussen
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/melilly
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.linkedin.com/in/melissa-ann-rasmussen/
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Physics Undergraduate at Utah State University
+email: melissa.rasmussen@usu.edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
