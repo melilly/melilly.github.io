@@ -9,13 +9,12 @@ module.exports = {
     search: false,
     nav: [
       { text: "About", link: "/about/" },
-      { text: "Experience", link: "/projects/" },
-      { text: "Specialties", link: "/projects/" },
-      { text: "More", link: "/guide/projects" },
-      { text: "CV", link: "https://github.com/melilly/melilly.github.io" }
+      { text: "Experience", link: "/experience/" },
+      { text: "Specialties", link: "/specialties/" },
+      { text: "More", link: "/more/projects" },
     ],
     sidebar: {
-      '/guide/': genSidebarConfig()
+      '/more/': genSidebarConfig()
     },
     lastUpdated: 'Last Updated'
   },

@@ -1,8 +1,8 @@
-# Getting Started
+# Projects
 
 Since this is a template built upon [VuePress](https://vuepress.vuejs.org/), everything is wrapped up and it takes only 10 minutes to start.
 
-**As esasy as 1, 2, 3**
+**As easy as 1, 2, 3**
 
 ## Prerequisites
 
