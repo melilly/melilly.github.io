@@ -15,7 +15,7 @@ socials:
 
 cv: https://en.wikipedia.org/wiki/Harry_Potter
 bio: Physics Undergraduate at Utah State University
-email: melissa.rasmussen@usu.edu
+email: melissa.rasmussen@aggiemail.usu.edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />

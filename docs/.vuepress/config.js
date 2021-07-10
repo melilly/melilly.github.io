@@ -8,14 +8,14 @@ module.exports = {
   themeConfig: {
     search: false,
     nav: [
-      { text: "Home", link: "/" },
       { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/melilly/melilly.github.io" }
+      { text: "Experience", link: "/projects/" },
+      { text: "Specialties", link: "/projects/" },
+      { text: "More", link: "/guide/projects" },
+      { text: "CV", link: "https://github.com/melilly/melilly.github.io" }
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
+      '/guide/': genSidebarConfig()
     },
     lastUpdated: 'Last Updated'
   },
@@ -29,16 +29,14 @@ module.exports = {
   }
 };
 
-function genSidebarConfig (title) {
+function genSidebarConfig () {
   return [
     {
-      title,
       collapsable: false,
       children: [
-        '',
-        'getting-started',
-        'customize',
-        'advanced',
+        'projects',
+        'education',
+        'awards',
       ]
     }
   ]

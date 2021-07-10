@@ -13,7 +13,7 @@ socials:
 - title: instagram
   link: https://www.instagram.com
 - title: email
-  link: 'mailto:harry[at]gmail.com'
+  link: 'mailto:melissa.rasmussen[at]aggiemail.usu.edu'
 actions:
 - text: Projects
   link: /projects/
