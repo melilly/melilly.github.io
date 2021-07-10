@@ -11,7 +11,12 @@ module.exports = {
       { text: "About", link: "/about/" },
       { text: "Experience", link: "/experience/" },
       { text: "Specialties", link: "/specialties/" },
-      { text: "More", link: "/more/projects" },
+      { text: "More", items: [
+        { text: "Projects", link: "/more/projects"},
+        { text: "Education", link: "/more/education"},
+        { text: "Awards", link: "/more/awards"}
+        ]
+      },
     ],
     sidebar: {
       '/more/': genSidebarConfig()
