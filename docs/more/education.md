@@ -1,85 +1,104 @@
 # Education
 
-We'll take this repo as an example to show you how to make this site as you like.
+## Undergraduate
 
-Don't forget to refer to official [VuePress Guide](https://vuepress.vuejs.org/guide/) to find out more.
+**B.S. Physics, B.S. Computer Science**
 
-## Structure
+Utah State University, Logan, UT
 
-Now, we care about the **docs** directory which includes:
+Graduation: May 2022
 
-```
-docs
-├── guide
-├── projects
-├── README.md
-└── .vuepress
-    ├── components
-    │   ├── Homepage.vue
-    │   ├── MContent.vue
-    │   ├── Projects.vue
-    │   └── styles
-    │       └── config.styl
-    ├── config.js
-    ├── override.styl
-    └── public
-        ├── icons
-        ├── profile.jpg
-        └── projects
-```
+GPA: 3.96
 
-### The documents
+### Classes
 
-The entry page is `README.md`, followed by sub-pages under the directories `guide` and `projects`.
+#### Physics Classes
+Upcoming and In Progress Classes:
+ - Quantum Mechanics I, II
+ - Research Capstone
 
-You can modify, delete and create your own directory and `README.md` files according to your needs.
+Completed Classes:
+ - E&M I, II (A, A-)
+ - Thermal Physics (A)
+ - Wave Phenomena (A)
+ - Intermediate/Advanced Lab (A, A)
+ - Modern Physics I, II (A, A)
+ - Classical Mechanics (A)
+ - Introductory Lab I, II (A, A)
+ - Introductory Physics I, II (A, A)
 
-You should have basic idea of [Markdown](https://guides.github.com/features/mastering-markdown/) and YAML Front Matter.
+#### Computer Science Classes
+Upcoming and In Progress Classes:
+ - Scientific Visualization
+ - Time Series Data Mining
+ - Theory of Computability
 
-### config.js
+Completed Classes:
+ - Advanced Algorithms (A)
+ - Data Science (A-)
+ - Intelligent Systems (A)
+ - High Performance Computing (B+)
+ - Programming Languages (A)
+ - Concurrency (A)
+ - Web Development (A)
+ - Software Engineering (A)
+ - Computer Architecture (A)
+ - Event Driven Programming and GUIs (A)
+ - Methods in Computer Science (A)
+ - Computer Science 3 (A)
 
-The config files of this site are all placed under `.vuepress` directory. The only two you need to concern is `config.js` and `public` folder.
+#### Math/Statistics Classes
+Upcoming and In Progress Classes:
+ - Partial Differential Equations
 
-### public
+Completed Classes:
+ - Statistics (A)
+ - Ordinary Differential Equations (A)
+ - Linear Algebra (A)
+ - Discrete Math (A)
+ - Multivariable Calculus (A)
 
-You need to place your images under `docs/.vuepress/public` directory, so that you can access them using `/profile.jpg` in the yaml section of the `README.md` file.
+### Involvement
 
-## Modification
+#### Academics
 
-### Title
+Dean's List
 
-The title of the site and the navbar is in the `docs/.vuepress/config.js`
+Honors Student
 
-### Navbar links
+Undergraduate Research Fellow
 
-Still in the `config.js`, under the `themeConfig` key.
+#### Organizations
 
-### Homepage
+ACMW - Association of Computing Machinery - Women
 
-If you don't like the homepage, simply modify the `docs/README.md` file to switch to another layout or just Markdown page.
+SPS - Society of Physics Students
 
-### Sidebar
+SWE - Society of Women Engineers
 
-There are two different types of sidebars: routing between multiple Markdown files and TOC of a single page.
+Food Recovery Network
 
-This **Guide** contains separate files under `docs/guide`. To enable sidebar, you have to manually set this in the `config.js`.
+## High School
 
-## Pages
+A&M Consolidated High School, College Station, Texas
 
-### Homepage
+Graduation: June 2018
 
-As you can see in the `docs/README.md`, most of the contents are written in the YAML front matter. Just modify the corresponding section and you should get yours.
+### Involvement
 
-### Projects
+#### Academics
 
-Actually, it's a pure Markdown file. You can use the inline widget `<MarkdownCard>` to show your project, publication or portfolio. Check the example at `docs/projects/README.md`.
+Summa Cum Laude
 
-You can even add some more sections with Markdown to make this page a resume for you.
+Honors Student
 
-### Customize Page
+National Honors Society
 
-Adding a page is simple, create `docs/Foo/README.md` and you can access it with link `/Foo/` in the context.
+#### Organizations
 
-To automatically generate the sidebar of the current page, add `sidebar: auto` in the front matter section.
+Community Jazz Band (creator)
 
-You can even tune the styles with `<style>` tag. Check [here](https://vuepress.vuejs.org/guide/using-vue.html#using-pre-processors) for more information.
+UIL
+
+BPA
+
