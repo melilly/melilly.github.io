@@ -9,18 +9,10 @@ module.exports = {
     search: false,
     nav: [
       { text: "About", link: "/about/" },
-      { text: "Experience", link: "/experience/" },
-      { text: "Specialties", link: "/specialties/" },
-      { text: "More", items: [
-        { text: "Projects", link: "/more/projects"},
-        { text: "Education", link: "/more/education"},
-        { text: "Awards", link: "/more/awards"}
-        ]
-      },
+      { text: "Projects", link: "/experience/" },
+      { text: "Interests", link: "/specialties/" },
+      { text: "CV", link: "https://docs.google.com/document/d/1eK5UpCMqtFv12gf8gsUXQelQmPR29Zx78LEHnsLgJCA/edit?usp=sharing" },
     ],
-    sidebar: {
-      '/more/': genSidebarConfig()
-    },
     lastUpdated: 'Last Updated'
   },
 
@@ -31,18 +23,5 @@ module.exports = {
       md.use(require("markdown-it-katex"));
     }
   }
-};
-
-function genSidebarConfig () {
-  return [
-    {
-      collapsable: false,
-      children: [
-        'projects',
-        'education',
-        'awards',
-      ]
-    }
-  ]
 }
 

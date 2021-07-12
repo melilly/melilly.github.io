@@ -16,11 +16,9 @@ socials:
   link: 'mailto:melissa.rasmussen[at]aggiemail.usu.edu'
 actions:
 - text: Projects
-  link: /projects/
-- text: Blog
-  link: https://github.com/melilly
+  link: /experience/
 - text: CV
-  link: /article/
+  link: https://docs.google.com/document/d/1eK5UpCMqtFv12gf8gsUXQelQmPR29Zx78LEHnsLgJCA/edit?usp=sharing
 footer: Powered by VuePress
 ---
 

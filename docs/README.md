@@ -13,7 +13,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/melissa-ann-rasmussen/
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
+cv: https://docs.google.com/document/d/1eK5UpCMqtFv12gf8gsUXQelQmPR29Zx78LEHnsLgJCA/edit?usp=sharing
 bio: Physics Undergraduate at Utah State University
 email: melissa.rasmussen@aggiemail.usu.edu
 ---
