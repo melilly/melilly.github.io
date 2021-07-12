@@ -22,27 +22,35 @@ email: melissa.rasmussen@aggiemail.usu.edu
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+I'm a fourth-year undergraduate student, double majoring in [physics](https://catalog.usu.edu/preview_program.php?catoid=12&poid=9639) and [computer science](https://catalog.usu.edu/preview_program.php?catoid=12&poid=9373) at Utah State University.
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I've contributed to a number of research projects, from computer science middle school curriculum to gamma-ray pulsars, to explore and expand my research capabilities. 
+
+I plan to focus my expertise into computational physics research - simulations, visualizations, analysis of large datasets. I aim to begin a PhD in physics in fall 2022. 
+
+My extra energies are put toward efforts of STEM outreach via fun and engaging puzzles for the analytical mind. I want to provide the opportunities to explore scientific problems that I would have enjoyed as a young child. 
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [June 2021] [NSF/GPAP Summer School](https://www.gpapschool.com/) completed, on plasma physics for astrophysicists
+- [June 2021] Tabletop Games paper accepted to Computer Science Education journal
+- [May 2021] Internship begun at Stony Brook University
+- [April 2021] Scholarships received from USU's College of Science, Department of Physics, and Department of Computer Science
+- [February 2021] Requirements completed for Space Dynamics Laboratory's [Student Scholar Program](https://www.usu.edu/today/story/space-dynamics-laboratory-recognizes-student-scholars)
+- [January 2021] Poster presented on gamma-ray pulsars at 237th American Astrophysical Society meeting
 
 
-## Education & Experiences
+## Education
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **B.S. Physics, B.S. Computer Science** - Utah State University <br/>
+Sept 2018 - May 2022
 
 
 ## Projects
 
 
-[→ Full list](/projects/)
+[→ Full list](/experience/)
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 
@@ -65,13 +73,6 @@ Sept 1991 - 1997
   [[Link](https://www.google.com)]
 
 </ProjectCard>
-
-
-## Awards & Honors
-
-### Contests
-
-- First place in **The Hogwarts House Cup**
 
 
 <!-- Custom style for this page -->
