@@ -50,7 +50,7 @@ Sept 2018 - May 2022
 ## Projects
 
 
-[→ Full list](/experience/)
+[→ Full list](/projects/)
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 

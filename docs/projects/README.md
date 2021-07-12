@@ -2,7 +2,7 @@
 pageClass: projects-page
 ---
 
-# Experience
+# Projects
 
 Here are some works of mine :books:
 
