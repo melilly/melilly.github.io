@@ -3,10 +3,9 @@
     <div v-if="image" class="card-image">
       <img :src="$withBase(image)" alt="">
     </div>
-    <div v-if="link">
-      <a v-if="link" :href="$withBase(link)">yeah</a>
-    </div>
-    <a v-if="link" :href="$withBase(link)"><span class="link-span"></span></a>
+    <a v-if="link" :href="$withBase(link)">
+      <span class="link-span"></span>
+    </a>
     <div class="card-content">
       <slot></slot>
     </div>
@@ -52,9 +51,9 @@ export default {
       -webkit-margin-after 0.5em
     blockquote 
       font-size 1rem
-  a
-    position relative
-    z-index 2
+    a
+      position relative
+      z-index 2
 
 .link-span
   position absolute
