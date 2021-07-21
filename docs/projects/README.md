@@ -4,25 +4,15 @@ pageClass: projects-page
 
 # Projects
 
-Here are some works of mine :books:
+<ProjectCard>
 
-## Projects
-
-<ProjectCard image="/projects/1.png">
-
-  Harry P., Hermione G., *et al*
+  **Supernova Ia: Double Detonation in White Dwarfs**
   
-  **The Making of Harry Potter's Wand**
   
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
 
 </ProjectCard>
 
-## Publications
-
-<ProjectCard>
+<ProjectCard link="/about/" image="/projects/1.png">
 
   **Harry Potter and the Deathly Hallows**
   

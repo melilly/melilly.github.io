@@ -63,6 +63,8 @@ $ yarn dev
 
 Check your site at `http://127.0.0.1:8080/`
 
+# Not supported on Internet Explorer
+
 ## Features
 
 - Markdown and emoji supported :smiley:

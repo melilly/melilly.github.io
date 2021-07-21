@@ -3,6 +3,10 @@
     <div v-if="image" class="card-image">
       <img :src="$withBase(image)" alt="">
     </div>
+    <div v-if="link">
+      <a v-if="link" :href="$withBase(link)">yeah</a>
+    </div>
+    <a v-if="link" :href="$withBase(link)"><span class="link-span"></span></a>
     <div class="card-content">
       <slot></slot>
     </div>
@@ -11,7 +15,9 @@
 
 <script>
 export default {
-  props: ['image', 'hideBorder']
+  props: ['image', 'link', 'hideBorder'],
+  methods: {
+  }
 };
 </script>
 
@@ -23,6 +29,7 @@ export default {
   margin-top 1em
   min-height 150px
   display flex
+  position relative
   flex-direction row
   align-items: stretch
   .card-image
@@ -45,6 +52,17 @@ export default {
       -webkit-margin-after 0.5em
     blockquote 
       font-size 1rem
+  a
+    position relative
+    z-index 2
+
+.link-span
+  position absolute
+  width 100%
+  height 100%
+  top 0
+  left 0
+  z-index 1
 
 .md-card.show-border
   border 1px solid #eee
