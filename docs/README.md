@@ -52,25 +52,21 @@ Sept 2018 - May 2022
 
 [→ Full list](/projects/)
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard link="/projects/subchandra">
 
-  **The Making of Harry Potter's Wand**
+  **Examining Reaction Networks used in Convection Models in Helium Shells of Sub-Chandrasehkar White Dwarfs**
+  
+  This project simulates the explosion of a dense white dwarf star. In the model, a helium layer surrounds the star. Initial ignition of the helium layer can cause the helium, then the star itself, to burn and explode as a type of supernova. Computer simulations of this phenomemon, by necessity, ignore elements or chemical reactions, in order to simplify the problem enough to be tractable. In this work, I explore the sensitivity of the explosion to such modifications by comparing complicated simulations with their simpler counterparts.
 
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  [Simulation Code](https://github.com/AMReX-Astro/Castro)
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard image="projects/render-quasar-credit-eso-mkornmesser.jpg">
 
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  **Electromagnetic Black Hole Jets in Anti-de Sitter Space**
 
-  [[Link](https://www.google.com)]
+  [Reference](https://arxiv.org/abs/2006.09901)
 
 </ProjectCard>
 
