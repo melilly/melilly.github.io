@@ -10,7 +10,6 @@ module.exports = {
     nav: [
       { text: "About", link: "/about/" },
       { text: "Projects", link: "/projects/" },
-      { text: "Interests", link: "/interests/" },
       { text: "CV", link: "https://docs.google.com/document/d/1eK5UpCMqtFv12gf8gsUXQelQmPR29Zx78LEHnsLgJCA/edit?usp=sharing" },
     ],
     lastUpdated: 'Last Updated'

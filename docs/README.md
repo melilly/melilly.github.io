@@ -52,21 +52,13 @@ Sept 2018 - May 2022
 
 [→ Full list](/projects/)
 
-<ProjectCard link="/projects/subchandra">
+<ProjectCard>
 
   **Examining Reaction Networks used in Convection Models in Helium Shells of Sub-Chandrasehkar White Dwarfs**
   
   This project simulates the explosion of a dense white dwarf star. In the model, a helium layer surrounds the star. Initial ignition of the helium layer can cause the helium, then the star itself, to burn and explode as a type of supernova. Computer simulations of this phenomemon, by necessity, ignore elements or chemical reactions, in order to simplify the problem enough to be tractable. In this work, I explore the sensitivity of the explosion to such modifications by comparing complicated simulations with their simpler counterparts.
 
   [Simulation Code](https://github.com/AMReX-Astro/Castro)
-
-</ProjectCard>
-
-<ProjectCard image="projects/render-quasar-credit-eso-mkornmesser.jpg">
-
-  **Electromagnetic Black Hole Jets in Anti-de Sitter Space**
-
-  [Reference](https://arxiv.org/abs/2006.09901)
 
 </ProjectCard>
 

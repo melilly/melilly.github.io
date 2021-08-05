@@ -4,7 +4,7 @@ pageClass: projects-page
 
 # Projects
 
-<ProjectCard link="/projects/subchandra">
+<ProjectCard>
 
   **Examining Reaction Networks used in Convection Models in Helium Shells of Sub-Chandrasehkar White Dwarfs**
   
@@ -14,47 +14,13 @@ pageClass: projects-page
 
 </ProjectCard>
 
-<ProjectCard image="projects/render-quasar-credit-eso-mkornmesser.jpg">
-
-  **Electromagnetic Black Hole Jets in Anti-de Sitter Space**
-
-  Image Credit: https://scitechdaily.com/new-clues-about-early-universe-from-black-hole-powered-cosmic-jet-13-billion-light-years-from-earth/, Artist's rendition of black hole jet
-
-  [Reference](https://arxiv.org/abs/2006.09901)
-
-</ProjectCard>
-
-<ProjectCard link="/projects/pulsars">
+<ProjectCard>
 
   **Properties of Gamma-ray Pulsars from the Large Area Telescope**
 
   Modern telescopes, like the Fermi Large Area Telescope (LAT), have a sensitivity threshold below which individual point sources cannot be distinguished from background [diffuse emission](https://fermi.gsfc.nasa.gov/science/eteu/diffuse/). Instead, data about these point sources can be inferred from a model of the detectable point sources. In this project, I adjust a model for [gamma-ray pulsars](https://imagine.gsfc.nasa.gov/science/objects/pulsars2.html.old). By comparing the model to LAT's [recent catalog](https://fermi.gsfc.nasa.gov/ssc/data/access/lat/10yr_catalog/), I identified details about pulsars' luminosity and density in space that best fit the data, then extrapolated to estimate the number of undetected pulsars below the sensitivity threshold.
 
   [AAS Presentation](https://aas237-aas.ipostersessions.com/default.aspx?s=89-B3-A8-E4-3A-8E-92-23-16-73-1C-B1-BD-F8-56-6D#)
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **Tabletop to Screentop**
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **Python for Physicists**
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **Agilink**
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **Directed Majority Automaton**
 
 </ProjectCard>
 
